@@ -1,0 +1,2 @@
+# DEVELOPING-A-BLOCKCHAIN-BASED-SYSTEM-FOR-THE-PALESTINIAN-ANTI-CORRUPTION-COMMISSION-
+Consists of 2 subsystems, Complainant subsystem, &amp; PACC subsystem PACC subsystem consist of 3 modules, Administrator, Manager, &amp; Investigator module I built this system using Python with flask, HTML, CSS, JS, jQuery, Bootstrap, SQL server 2019, Temporal tables and Ajax. And I used Private Blockchain (Permissioned), PoA, Digital Signature, RSA key generation, SSH protocol, AES (enc/dec), SHA 256, Consensus protocol and SSL protocol.
